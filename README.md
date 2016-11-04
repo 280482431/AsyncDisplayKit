@@ -1,3 +1,5 @@
+双缓存屏外渲染:异步渲染
+
 ![AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit/blob/gh-pages/static/images/logo.png)
 
 [![Apps Using](https://img.shields.io/badge/Apps%20Using%20ASDK-%3E4,974-28B9FE.svg)](http://cocoapods.org/pods/AsyncDisplayKit)
